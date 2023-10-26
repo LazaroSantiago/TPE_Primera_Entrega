@@ -1,0 +1,12 @@
+[submodule "User"]
+	path = User
+	url = https://github.com/LazaroSantiago/User
+[submodule "Scooter"]
+	path = Scooter
+	url = https://github.com/LazaroSantiago/Scooter
+[submodule "Maintenance"]
+	path = Maintenance
+	url = https://github.com/LazaroSantiago/Maintenance
+[submodule "Administration"]
+	path = Administration
+	url = https://github.com/LazaroSantiago/Administration
